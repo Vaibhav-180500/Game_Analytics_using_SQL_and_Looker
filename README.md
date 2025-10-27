@@ -33,7 +33,7 @@ To handle large-scale event history (10M+ rows), all fact data is partitioned by
 
 All analyses (EDA, LTV, DAU/MAU, retention, monetization, AB test) are created as **SQL views** for modular, scalable reporting.  
 
-- See Here - `notebooks`
+- See Here - [notebooks](#notebooks)
 
 ---
 

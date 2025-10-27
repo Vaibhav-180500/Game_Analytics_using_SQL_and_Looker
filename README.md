@@ -33,7 +33,7 @@ To handle large-scale event history (10M+ rows), all fact data is partitioned by
 
 All analyses (EDA, LTV, DAU/MAU, retention, monetization, AB test) are created as **SQL views** for modular, scalable reporting.  
 
-- See Here - [notebooks]([#notebooks](https://github.com/Vaibhav-180500/Game_Analytics_using_SQL_and_Looker/tree/main/notebooks))
+- See Here - [notebooks](https://github.com/Vaibhav-180500/Game_Analytics_using_SQL_and_Looker/tree/main/notebooks)
 
 ---
 

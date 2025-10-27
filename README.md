@@ -58,7 +58,7 @@ Despite a large and growing user base, overall game monetization and long-term e
 
 ## Dashboard Structure
 
-The analysis uses a modular multi-tab dashboard. **Insert screenshots or images in the spaces indicated below.**
+The analysis uses a modular multi-tab dashboard.
 
 ---
 

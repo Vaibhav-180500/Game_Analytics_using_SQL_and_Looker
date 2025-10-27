@@ -29,6 +29,13 @@ Tables: `reg_data`, `auth_data`, `ab_test`
 To handle large-scale event history (10M+ rows), all fact data is partitioned by timestamp and clustered by user ID for query speed and cost efficiency.
 
 ---
+### Query & View Design
+
+All analyses (EDA, LTV, DAU/MAU, retention, monetization, AB test) are created as **SQL views** for modular, scalable reporting.  
+
+- See Here - `notebooks`
+
+---
 
 ## Business Problem Statement
 

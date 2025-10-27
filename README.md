@@ -79,12 +79,16 @@ The analysis uses a modular multi-tab dashboard.
 
 ### 2. Engagement & Retention
 
-- **DAU/MAU Trends:** Line charts for daily/monthly active users  
-- **Cohort Retention:** Multi-line chart for D1/D7/D30 rates by cohort  
+- **DAU/MAU Trends:** Line charts for daily/monthly active users
+- **Cohort Retention:** Multi-line chart for D1/D7/D30 rates by cohort
+- **Day 1/7/30 Retention:** Multi-line chart for D1/D7/D30 rates by cohort  
 - **User Types:** Bar chart (“one-timers,” “early retained,” etc.)  
 - **Daily Churn:** Line chart for user churn
 
 <img width="1232" height="692" alt="image" src="https://github.com/user-attachments/assets/edd625c6-9907-4fc5-9eef-b5d7b401b45c" />
+
+<img width="1187" height="373" alt="image" src="https://github.com/user-attachments/assets/e5474a7d-a4aa-4546-b0cc-ba58c6ca788f" />
+
 
 <img width="1140" height="794" alt="image" src="https://github.com/user-attachments/assets/80b2170b-8bc2-4c0e-8812-021d677f8e30" />
 
@@ -116,6 +120,7 @@ The analysis uses a modular multi-tab dashboard.
 ### Retention & Churn
 
 - Retention rates (D1/D7/D30) are low and daily churn is trending upwards, indicating onboarding issues and a need to improve early game retention.
+- Month-1 retention for latest year i.e. 2020 is below 20 percent for most cohorts leads to high churn velocity.
 
 ### Paying User Distribution
 
@@ -138,6 +143,7 @@ The analysis uses a modular multi-tab dashboard.
 ## Strategic Recommendations
 
 - Invest in new user onboarding, first-session experience, and win-back automations.
+- Improving first-session engagement would move the needle more than late-game updates.
 - Develop monetization offers or features for both whales and small spenders.
 - Double down on features shown to retain “superfans” while addressing early churners.
 - Only scale A/B tested features if future tests show clear, significant improvements in primary KPIs.

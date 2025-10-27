@@ -90,7 +90,8 @@ The analysis uses a modular multi-tab dashboard.
 <img width="1187" height="373" alt="image" src="https://github.com/user-attachments/assets/e5474a7d-a4aa-4546-b0cc-ba58c6ca788f" />
 
 
-<img width="1140" height="794" alt="image" src="https://github.com/user-attachments/assets/80b2170b-8bc2-4c0e-8812-021d677f8e30" />
+<img width="1236" height="404" alt="image" src="https://github.com/user-attachments/assets/848b7daf-a074-435b-861f-42ec2ebf22da" />
+
 
 ---
 

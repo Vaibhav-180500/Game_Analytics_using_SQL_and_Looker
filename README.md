@@ -4,7 +4,7 @@
 
 This project is a full-stack analytics pipeline for a large mobile game's user journey, built using SQL (BigQuery) for data modeling and Looker for dashboard visualization. The goal: provide actionable business insights on retention, monetization, user segmentation, and the impact of A/B testing for game growth strategy.
 
-Looker Dashboard Link - https://lookerstudio.google.com/reporting/f43f9aee-e61c-417e-be3d-124cfac4d195
+Looker Dashboard Link - [CLICK HERE](https://lookerstudio.google.com/reporting/f43f9aee-e61c-417e-be3d-124cfac4d195)
 ---
 
 ## Dataset Overview
